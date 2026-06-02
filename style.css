@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 2rem;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+img {
+	width: 40%;
+	max-width: 500px;
+}
+
+ul,
+ol {
+	padding-left: 20px;
+	margin-bottom: 15px;
+}
+
+li {
+	margin-bottom: 5px;
+}
